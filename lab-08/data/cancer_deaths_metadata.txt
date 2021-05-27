@@ -1,0 +1,21 @@
+Data were downloaded from the National Cancer Institute’s State Cancer Profiles website (http://www.statecancerprofiles.cancer.gov/) on 11/27/2016. The data describe cancer rates for all cancer sites by mortality, for all races, sexes, and ages, averaged over the years of 2009 - 2013.
+
+Rates are the number of deaths per 100,000 people.
+
+**Fields**
+
+County,
+FIPS,
+Met Objective of 161.4? (1),
+Age-Adjusted Death Rate,
+Lower 95% Confidence Interval for Death Rate,
+Upper 95% Confidence Interval for Death Rate,
+Average Deaths per Year,
+Recent Trend (2),
+Recent 5-Year Trend (2) in Death Rates,
+Lower 95% Confidence Interval for Trend,
+Upper 95% Confidence Interval for Trend
+
+**Harvest Site**
+
+https://www.statecancerprofiles.cancer.gov/cgi-bin/deathrates/deathrates.pl?99&001&00&0&001&0&1&1&1#results
